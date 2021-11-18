@@ -1,0 +1,265 @@
+
+body{
+    margin:0;
+    text-align:center;
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;  
+    width:100%;
+}
+
+
+
+h1{
+    margin:0;
+    padding-top: 100px;
+    font-family: "MonteCarlo", cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height:2;
+}
+
+
+h2{
+    color: #66BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: normal;
+}
+
+
+h3{
+    color: #11999E;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color:#11999E
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    background-color:#EAf6f6;
+    color: grey;
+    border-width:3px;
+    width: 5%;
+    margin-top: 50px;
+}
+
+.top{
+    background-color: #e4f9f5;
+}
+
+
+.topcontainer{
+    width:50%;
+    margin:auto;
+    background-color: #e4f9f5;
+    position: relative;  
+}
+
+
+
+.top-cloud{
+    position:absolute;
+    margin-left: 160px;
+    margin-top: 50px;
+    
+}
+
+
+.bottom-cloud{
+    position:absolute;
+    margin-right: 10px;
+    
+}
+
+
+
+.middle-container{
+   
+    position:relative;    
+    padding-top: 50px;
+    line-height: 2;
+   
+}
+
+.profile{
+    width: 50%;
+    margin:auto;
+}
+
+.aravinth{
+    width:25%;
+    margin-top: 20px;
+}
+
+.intro{
+    width:65%;
+    margin:auto;
+}
+
+.education-qualification{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+}
+.education{
+    width:25%;
+    margin-top: 53px;
+    margin-bottom: 35px;
+}
+
+.insti{
+    width:45%;
+    float:right;
+    margin-right:50px;
+    
+}
+
+
+
+.project{
+
+    margin:100px auto auto auto;
+    width:50%;
+    text-align: left;
+}
+
+.pimage{
+    width:25%;
+    float:right;
+    margin:auto 5px 50px auto;
+}
+
+.project-discription{
+    width:45%;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+
+
+
+.Training{
+    width:50%;
+    text-align: left;
+    margin:100px auto auto auto;
+}
+
+.Intern{
+    width:25%;
+    margin-left:5px;
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
+.intern-discription{
+    width:70%;
+    float:right;
+}
+    
+.certification{
+    width:50%;
+    text-align: left;
+    margin:100px auto auto auto;
+}
+
+.awards{
+    width:25%;
+    float:right;
+    margin-right:5px;
+}
+
+.certi{
+    width:60%;
+    margin-left:10px;
+}
+
+
+.skill-row{
+    width:50%;
+    margin:100px auto auto auto;
+    text-align: left;
+    
+}
+
+.computer{
+    width:25%;
+    margin-left:30px;
+    margin-top: 80px;
+    padding-bottom: 100px;
+}
+
+.skills{
+    float: right;
+     
+}
+
+
+.contact-me{
+    width:50%;
+    margin:100px auto auto auto;
+    padding-bottom: 100px;
+
+}
+
+.self{
+    margin-top: 50px;
+}
+
+
+.btn{
+    text-decoration: white;
+    border-radius: 8;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: white;
+}
+
+
+
+.btn:hover{
+    background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    line-height: 2;
+}
+
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+.footer-link:hover{
+    color:#eaf6f6;
+}
+
+.foo-para{
+    color:#EAF6F6;
+    font-size: 10px;
+}
+
+
+
